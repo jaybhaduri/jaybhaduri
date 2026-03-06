@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=jaybhaduri&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -121,18 +121,18 @@ All systems include:
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=USERNAME\&show_icons=true\&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaybhaduri\&show_icons=true\&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=gruvbox)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaybhaduri\&layout=compact\&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME\&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=jaybhaduri\&theme=gruvbox)
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/jaybhaduri/jaybhaduri/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
