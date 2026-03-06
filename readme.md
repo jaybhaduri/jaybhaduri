@@ -38,11 +38,15 @@ My focus is not demos - I design **scalable AI SaaS systems, AI chatbots, and LL
 
 # ⚙️ Tech Stack
 
+## ⚙️ Tech Stack
+
 ### AI / Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda&perline=4"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda&perline=4" />
 </p>
+
+---
 
 ### LLM & AI Frameworks
 
@@ -58,17 +62,23 @@ My focus is not demos - I design **scalable AI SaaS systems, AI chatbots, and LL
 
 </p>
 
+---
+
 ### Backend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3"/>
 </p>
 
+---
+
 ### Databases & Vector Search
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=postgres,redis"/>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Pinecone-VectorDB-orange?style=for-the-badge"/>
 
@@ -78,12 +88,13 @@ My focus is not demos - I design **scalable AI SaaS systems, AI chatbots, and LL
 
 </p>
 
+---
+
 ### Infrastructure
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github&perline=5"/>
 </p>
-
 ---
 
 # 🧠 AI Systems I Build
