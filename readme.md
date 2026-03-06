@@ -18,7 +18,7 @@
 
 I build **production-ready AI systems** using modern large language models including **OpenAI GPT, RAG pipelines, and AI automation platforms**.
 
-My focus is not demos — I design **scalable AI SaaS systems, AI chatbots, and LLM backend infrastructure used in real production environments.**
+My focus is not demos - I design **scalable AI SaaS systems, AI chatbots, and LLM backend infrastructure used in real production environments.**
 
 ---
 
@@ -121,19 +121,7 @@ All systems include:
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaybhaduri\&show_icons=true\&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaybhaduri\&layout=compact\&theme=gruvbox)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=jaybhaduri\&theme=gruvbox)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jaybhaduri/jaybhaduri/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
