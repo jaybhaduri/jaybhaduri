@@ -38,8 +38,6 @@ My focus is not demos - I design **scalable AI SaaS systems, AI chatbots, and LL
 
 # ⚙️ Tech Stack
 
-## ⚙️ Tech Stack
-
 ### AI / Machine Learning
 
 <p align="center">
@@ -95,6 +93,7 @@ My focus is not demos - I design **scalable AI SaaS systems, AI chatbots, and LL
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github&perline=5"/>
 </p>
+
 ---
 
 # 🧠 AI Systems I Build
